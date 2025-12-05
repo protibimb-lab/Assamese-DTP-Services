@@ -1,0 +1,42 @@
+body {
+  font-family: 'Noto Sans Bengali', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+}
+
+.jumbotron {
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: white;
+  padding: 2rem;
+  border-radius: 15px;
+}
+
+.navbar {
+  background: linear-gradient(to right, #ff9a9e, #fecfef);
+}
+
+.section-title {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.demo-upload {
+  border: 2px dashed #4ecdc4;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 10px;
+}
+
+.demo-price {
+  font-weight: bold;
+  color: #45b7d1;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.button {
+  border-radius: 8px;
+}
+
